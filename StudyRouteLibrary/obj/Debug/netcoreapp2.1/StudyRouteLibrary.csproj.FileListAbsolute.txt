@@ -1,0 +1,11 @@
+C:\Users\Piyush Sehli\source\repos\sehli_dmello(300984528_300978216)_GroupProject\StudyRouteLibrary\bin\Debug\netcoreapp2.1\StudyRouteLibrary.deps.json
+C:\Users\Piyush Sehli\source\repos\sehli_dmello(300984528_300978216)_GroupProject\StudyRouteLibrary\bin\Debug\netcoreapp2.1\StudyRouteLibrary.dll
+C:\Users\Piyush Sehli\source\repos\sehli_dmello(300984528_300978216)_GroupProject\StudyRouteLibrary\obj\Debug\netcoreapp2.1\StudyRouteLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Piyush Sehli\source\repos\sehli_dmello(300984528_300978216)_GroupProject\StudyRouteLibrary\obj\Debug\netcoreapp2.1\StudyRouteLibrary.AssemblyInfoInputs.cache
+C:\Users\Piyush Sehli\source\repos\sehli_dmello(300984528_300978216)_GroupProject\StudyRouteLibrary\obj\Debug\netcoreapp2.1\StudyRouteLibrary.AssemblyInfo.cs
+C:\Users\Piyush Sehli\source\repos\sehli_dmello(300984528_300978216)_GroupProject\StudyRouteLibrary\bin\Debug\netcoreapp2.1\StudyRouteLibrary.runtimeconfig.json
+C:\Users\Piyush Sehli\source\repos\sehli_dmello(300984528_300978216)_GroupProject\StudyRouteLibrary\bin\Debug\netcoreapp2.1\StudyRouteLibrary.runtimeconfig.dev.json
+C:\Users\Piyush Sehli\source\repos\sehli_dmello(300984528_300978216)_GroupProject\StudyRouteLibrary\bin\Debug\netcoreapp2.1\StudyRouteLibrary.pdb
+C:\Users\Piyush Sehli\source\repos\sehli_dmello(300984528_300978216)_GroupProject\StudyRouteLibrary\obj\Debug\netcoreapp2.1\StudyRouteLibrary.dll
+C:\Users\Piyush Sehli\source\repos\sehli_dmello(300984528_300978216)_GroupProject\StudyRouteLibrary\obj\Debug\netcoreapp2.1\StudyRouteLibrary.pdb
+C:\Users\Piyush Sehli\source\repos\sehli_dmello(300984528_300978216)_GroupProject\StudyRouteLibrary\obj\Debug\netcoreapp2.1\StudyRouteLibrary.csprojAssemblyReference.cache

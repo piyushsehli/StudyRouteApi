@@ -1,0 +1,17 @@
+C:\Users\Piyush Sehli\source\repos\sehli_dmello(300984528_300978216)_GroupProject\StudyRouteApi\bin\Debug\netcoreapp2.1\StudyRouteApi.deps.json
+C:\Users\Piyush Sehli\source\repos\sehli_dmello(300984528_300978216)_GroupProject\StudyRouteApi\bin\Debug\netcoreapp2.1\StudyRouteApi.runtimeconfig.json
+C:\Users\Piyush Sehli\source\repos\sehli_dmello(300984528_300978216)_GroupProject\StudyRouteApi\bin\Debug\netcoreapp2.1\StudyRouteApi.runtimeconfig.dev.json
+C:\Users\Piyush Sehli\source\repos\sehli_dmello(300984528_300978216)_GroupProject\StudyRouteApi\bin\Debug\netcoreapp2.1\StudyRouteApi.dll
+C:\Users\Piyush Sehli\source\repos\sehli_dmello(300984528_300978216)_GroupProject\StudyRouteApi\obj\Debug\netcoreapp2.1\StudyRouteApi.csprojAssemblyReference.cache
+C:\Users\Piyush Sehli\source\repos\sehli_dmello(300984528_300978216)_GroupProject\StudyRouteApi\obj\Debug\netcoreapp2.1\StudyRouteApi.csproj.CoreCompileInputs.cache
+C:\Users\Piyush Sehli\source\repos\sehli_dmello(300984528_300978216)_GroupProject\StudyRouteApi\obj\Debug\netcoreapp2.1\StudyRouteApi.RazorAssemblyInfo.cache
+C:\Users\Piyush Sehli\source\repos\sehli_dmello(300984528_300978216)_GroupProject\StudyRouteApi\obj\Debug\netcoreapp2.1\StudyRouteApi.RazorAssemblyInfo.cs
+C:\Users\Piyush Sehli\source\repos\sehli_dmello(300984528_300978216)_GroupProject\StudyRouteApi\obj\Debug\netcoreapp2.1\StudyRouteApi.AssemblyInfoInputs.cache
+C:\Users\Piyush Sehli\source\repos\sehli_dmello(300984528_300978216)_GroupProject\StudyRouteApi\obj\Debug\netcoreapp2.1\StudyRouteApi.AssemblyInfo.cs
+C:\Users\Piyush Sehli\source\repos\sehli_dmello(300984528_300978216)_GroupProject\StudyRouteApi\obj\Debug\netcoreapp2.1\StudyRouteApi.RazorTargetAssemblyInfo.cache
+C:\Users\Piyush Sehli\source\repos\sehli_dmello(300984528_300978216)_GroupProject\StudyRouteApi\bin\Debug\netcoreapp2.1\StudyRouteLibrary.dll
+C:\Users\Piyush Sehli\source\repos\sehli_dmello(300984528_300978216)_GroupProject\StudyRouteApi\bin\Debug\netcoreapp2.1\StudyRouteLibrary.pdb
+C:\Users\Piyush Sehli\source\repos\sehli_dmello(300984528_300978216)_GroupProject\StudyRouteApi\obj\Debug\netcoreapp2.1\StudyRouteApi.csproj.CopyComplete
+C:\Users\Piyush Sehli\source\repos\sehli_dmello(300984528_300978216)_GroupProject\StudyRouteApi\obj\Debug\netcoreapp2.1\StudyRouteApi.dll
+C:\Users\Piyush Sehli\source\repos\sehli_dmello(300984528_300978216)_GroupProject\StudyRouteApi\obj\Debug\netcoreapp2.1\StudyRouteApi.pdb
+C:\Users\Piyush Sehli\source\repos\sehli_dmello(300984528_300978216)_GroupProject\StudyRouteApi\bin\Debug\netcoreapp2.1\StudyRouteApi.pdb
