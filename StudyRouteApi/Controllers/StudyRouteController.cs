@@ -116,6 +116,13 @@ namespace StudyRouteApi.Controllers
             Colleges collegeToDelete = await _studyRouteRepository.GetCollegeById(id, false);
             if (collegeToDelete == null) return NotFound();
 
+            //foreach (var program in collegeToDelete.Programs)
+            //{
+            //    _studyRouteRepository.DeleteProgram(program);
+            //}
+
+            //collegeToDelete.Programs = new List<Programs>();
+
             _studyRouteRepository.DeleteCollege(collegeToDelete);
 
             if (!await _studyRouteRepository.Save())

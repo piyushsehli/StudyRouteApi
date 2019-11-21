@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.902
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudyRouteLibrary", "StudyRouteLibrary\StudyRouteLibrary.csproj", "{22B77773-C4BF-4251-9AD1-BDB346E58462}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudyRouteLibrary", "StudyRouteLibrary\StudyRouteLibrary.csproj", "{22B77773-C4BF-4251-9AD1-BDB346E58462}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudyRouteApi", "StudyRouteApi\StudyRouteApi.csproj", "{8B26BF6E-96A3-44AF-8A8E-1F92D27B0803}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudyRouteApi", "StudyRouteApi\StudyRouteApi.csproj", "{8B26BF6E-96A3-44AF-8A8E-1F92D27B0803}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudyRouteClient", "StudyRouteClient\StudyRouteClient.csproj", "{312CED4E-7A49-4422-AA36-5003CDD9725D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{8B26BF6E-96A3-44AF-8A8E-1F92D27B0803}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B26BF6E-96A3-44AF-8A8E-1F92D27B0803}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B26BF6E-96A3-44AF-8A8E-1F92D27B0803}.Release|Any CPU.Build.0 = Release|Any CPU
+		{312CED4E-7A49-4422-AA36-5003CDD9725D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{312CED4E-7A49-4422-AA36-5003CDD9725D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{312CED4E-7A49-4422-AA36-5003CDD9725D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{312CED4E-7A49-4422-AA36-5003CDD9725D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

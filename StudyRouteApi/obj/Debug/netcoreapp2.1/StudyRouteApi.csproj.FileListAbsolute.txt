@@ -15,3 +15,20 @@ C:\Users\Piyush Sehli\source\repos\sehli_dmello(300984528_300978216)_GroupProjec
 C:\Users\Piyush Sehli\source\repos\sehli_dmello(300984528_300978216)_GroupProject\StudyRouteApi\obj\Debug\netcoreapp2.1\StudyRouteApi.dll
 C:\Users\Piyush Sehli\source\repos\sehli_dmello(300984528_300978216)_GroupProject\StudyRouteApi\obj\Debug\netcoreapp2.1\StudyRouteApi.pdb
 C:\Users\Piyush Sehli\source\repos\sehli_dmello(300984528_300978216)_GroupProject\StudyRouteApi\bin\Debug\netcoreapp2.1\StudyRouteApi.pdb
+D:\study\Sem3\aws\Project\StudyRouteApi\obj\Debug\netcoreapp2.1\StudyRouteApi.csproj.CoreCompileInputs.cache
+D:\study\Sem3\aws\Project\StudyRouteApi\obj\Debug\netcoreapp2.1\StudyRouteApi.RazorAssemblyInfo.cache
+D:\study\Sem3\aws\Project\StudyRouteApi\obj\Debug\netcoreapp2.1\StudyRouteApi.RazorAssemblyInfo.cs
+D:\study\Sem3\aws\Project\StudyRouteApi\obj\Debug\netcoreapp2.1\StudyRouteApi.AssemblyInfoInputs.cache
+D:\study\Sem3\aws\Project\StudyRouteApi\obj\Debug\netcoreapp2.1\StudyRouteApi.AssemblyInfo.cs
+D:\study\Sem3\aws\Project\StudyRouteApi\obj\Debug\netcoreapp2.1\StudyRouteApi.csprojAssemblyReference.cache
+D:\study\Sem3\aws\Project\StudyRouteApi\bin\Debug\netcoreapp2.1\StudyRouteApi.deps.json
+D:\study\Sem3\aws\Project\StudyRouteApi\bin\Debug\netcoreapp2.1\StudyRouteApi.runtimeconfig.json
+D:\study\Sem3\aws\Project\StudyRouteApi\bin\Debug\netcoreapp2.1\StudyRouteApi.runtimeconfig.dev.json
+D:\study\Sem3\aws\Project\StudyRouteApi\bin\Debug\netcoreapp2.1\StudyRouteApi.dll
+D:\study\Sem3\aws\Project\StudyRouteApi\bin\Debug\netcoreapp2.1\StudyRouteApi.pdb
+D:\study\Sem3\aws\Project\StudyRouteApi\bin\Debug\netcoreapp2.1\StudyRouteLibrary.dll
+D:\study\Sem3\aws\Project\StudyRouteApi\bin\Debug\netcoreapp2.1\StudyRouteLibrary.pdb
+D:\study\Sem3\aws\Project\StudyRouteApi\obj\Debug\netcoreapp2.1\StudyRouteApi.RazorTargetAssemblyInfo.cache
+D:\study\Sem3\aws\Project\StudyRouteApi\obj\Debug\netcoreapp2.1\StudyRouteApi.csproj.CopyComplete
+D:\study\Sem3\aws\Project\StudyRouteApi\obj\Debug\netcoreapp2.1\StudyRouteApi.dll
+D:\study\Sem3\aws\Project\StudyRouteApi\obj\Debug\netcoreapp2.1\StudyRouteApi.pdb
